@@ -1,4 +1,13 @@
-<properties>
-    <sonar.organization>ekrempnar</sonar.organization>
-    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-</properties>
+<project>
+
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.company</groupId>
+    <artifactId>my-app</artifactId>
+    <version>1</version>
+
+    <properties>
+        <sonar.organization>ekrempnar</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    </properties>
+
+</project>
